@@ -7,10 +7,10 @@ function Header() {
     <div className= 'header'>
       
       <nav className= 'header_nav'>
-            <Link to="/"> Home </Link> | 
-            <Link to="/about"> About </Link> |
-            <Link to="/Demo"> Demo </Link> |
-            <Link to="/Quiz"> Quiz </Link>
+            <a to="/"> Home </a> | 
+            <a to="/about"> About </a> |
+            <a to="/Demo"> Demo </a> |
+            <a to="/Quiz"> Quiz </a>
           </nav>
       
     </div>
