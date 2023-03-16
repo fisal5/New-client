@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "main": "index.js",
-  "homepage": "https://new-client-pearl.vercel.app/",
+  "homepage": "",
   "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
